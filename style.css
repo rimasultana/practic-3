@@ -171,20 +171,18 @@ body {
 }
 
 .btn {
-  background: #FFF4D6;
+  background: #fff4d6;
   width: 809px;
   height: 200px;
   margin: auto;
- 
-
 }
-.input{
+.input {
   padding: 14px 100px 14px 17px;
-   color: #AA9F9F;
-   margin-top: 75px;
-   border-radius: 5px;
-   border: 0;
-   background-color: #D9D9D9;;
+  color: #aa9f9f;
+  margin-top: 75px;
+  border-radius: 5px;
+  border: 0;
+  background-color: #d9d9d9;
 }
 
 .button {
@@ -193,5 +191,25 @@ body {
   background-color: #ff5959;
   border-radius: 5px 0;
   border: 0;
-  margin-top:75px ;
+  margin-top: 75px;
+}
+/* footer */
+.foot-container {
+  height: 177px;
+  padding: 43px 629px 42px 653px;
+  background: var(--Default-Black, #0b0d17);
+  text-align: center;
+  margin-top: 130px;
+}
+.foot-title {
+  text-align: center;
+  color: #ff5959;
+  font-size: 25px;
+  font-weight: 400;
+}
+.foot-description {
+  text-align: center;
+  margin-top: 20px;
+  color: #d9dbe1;
+  font-size: 14px;
 }
