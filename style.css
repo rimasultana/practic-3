@@ -128,11 +128,14 @@ body {
 .banner-container {
   display: flex;
   justify-content: space-between;
+  text-align: center;
   gap: 50px;
   align-items: center;
-  margin: 50px 130px;
+  margin: 130px;
 }
-.banner-left-details {
+.banner-righr-details {
+  width: 825px;
+  height: 550px;
 }
 .banner-title {
   color: #121212;
