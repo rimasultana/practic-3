@@ -128,10 +128,9 @@ body {
 .banner-container {
   display: flex;
   justify-content: space-between;
-  text-align: center;
-  gap: 50px;
   align-items: center;
-  margin: 130px;
+  gap: 90px;
+  margin: 130px 130px;
 }
 .banner-righr-details {
   width: 825px;
