@@ -6,12 +6,7 @@
   font-family: "Inter", sans-serif;
 }
 .container {
-  background-image: url("images/donation11.jpg");
-background-repeat: no-repeat;
-}
-itle {
-}
-.description {
-}
-.btn-primary {
+  background-image: url("image/donation1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100vh;
 }
