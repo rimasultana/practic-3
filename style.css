@@ -213,3 +213,11 @@ body {
   color: #d9dbe1;
   font-size: 14px;
 }
+
+
+@media (max-width:500px) {
+  body{
+    background-color: #ff5959;
+  }
+  
+}
